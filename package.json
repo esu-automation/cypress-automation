@@ -1,0 +1,22 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esu-automation/cypress-automation.git"
+  },
+  "author": "Elżbieta Szymkowiak-Ucinek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esu-automation/cypress-automation/issues"
+  },
+  "homepage": "https://github.com/esu-automation/cypress-automation#readme",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
