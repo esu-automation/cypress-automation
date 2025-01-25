@@ -1,0 +1,10 @@
+{
+  "correctEmail": "correct1@test.pl",
+  "incorrectEmail": "incorrect@test.pl",
+  "correctPassword": "correctPass123!",
+  "incorrectPassword": "incorrectPass123!",
+  "correctLogin": "correctLogin1",
+  "incorrectLogin": "incorrectLogin1",
+  "firstName": "Ela",
+  "lastName": "Test"
+}
